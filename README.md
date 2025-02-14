@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jetmal</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0fosKiUuG3ht6TIkoD8KhX&ust=1739632426991000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNif6d-6w4sDFQAAAAAdAAAAABAX"
-<p align="left"> <img src="https://www.google.com/imgres?q=animation%20coding%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a%2F68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=6_7BCMkOF0X1vM&vet=12ahUKEwjz7oT3ucOLAxXZ2wIHHYBTOh4QM3oECHgQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjz7oT3ucOLAxXZ2wIHHYBTOh4QM3oECHgQAA"
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **jetmalkumar45@gmail.com**
